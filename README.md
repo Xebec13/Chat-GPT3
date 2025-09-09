@@ -44,16 +44,3 @@ It includes smooth GSAP animations, a responsive design, feature sections, call-
 ![GPT-3 Blog](./src/assets/gifs/chat3.gif)
 
 ---
-
-## 🔧 Notes / Implementation Details
-
-- **Animations** powered by **GSAP** (`from`, `stagger`, `scrollTrigger`) for smooth reveals.  
-- **Reusable components**: Hero, Companies, Features, CTA, Blog.  
-- **Typography & spacing** fine-tuned via Tailwind’s responsive utilities.  
-- **Assets** (logos, icons, images) stored locally for portability.
-
----
-
-## 📄 License
-
-This project was created for **learning and portfolio purposes** by **Xebec13**.
