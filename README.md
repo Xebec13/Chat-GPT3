@@ -1,12 +1,59 @@
-# React + Vite
+# 🤖 GPT-3 Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React + Tailwind CSS** landing page concept for showcasing **OpenAI’s GPT-3**.  
+It includes smooth GSAP animations, a responsive design, feature sections, call-to-actions, and a blog preview.
 
-Currently, two official plugins are available:
+> Built by **Xebec13**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧭 **Responsive navigation** with logo + Sign In / Sign Up CTA
+- 🎬 **Hero section** with animated heading and CTA button
+- 🌍 **Trusted companies row** (Google, Slack, Atlassian, Dropbox, Shopify)
+- 💡 **"What is GPT-3?" section** with description + visual highlights
+- 🚀 **Features grid** (Chatbots, Knowledgebase, Education)
+- 🎨 **Possibilities + CTA banners** with smooth entry animations
+- 📰 **Blog preview** — recent posts styled consistently
+- 📱 **Fully responsive** and mobile-friendly
+- ⚡ **GSAP animations** for entry, scroll, and hover effects
+
+---
+
+## 🛠 Tech Stack
+
+- **React**  
+- **Tailwind CSS**  
+- **GSAP 3**  
+- **React Icons**
+
+---
+
+## 🎥 Preview GIFs
+
+> GIFs are stored locally in this repo.
+
+### Hero + Companies
+![GPT-3 Hero](./src/assets/gifs/chat.gif)
+
+### Features + Possibilities
+![GPT-3 Features](./src/assets/gifs/chat2.gif)
+
+### Blog Section
+![GPT-3 Blog](./src/assets/gifs/chat3.gif)
+
+---
+
+## 🔧 Notes / Implementation Details
+
+- **Animations** powered by **GSAP** (`from`, `stagger`, `scrollTrigger`) for smooth reveals.  
+- **Reusable components**: Hero, Companies, Features, CTA, Blog.  
+- **Typography & spacing** fine-tuned via Tailwind’s responsive utilities.  
+- **Assets** (logos, icons, images) stored locally for portability.
+
+---
+
+## 📄 License
+
+This project was created for **learning and portfolio purposes** by **Xebec13**.
