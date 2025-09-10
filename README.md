@@ -1,5 +1,7 @@
 # 🤖 GPT-3 Landing Page
 
+[![Live](https://img.shields.io/badge/Live-Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=pink)](https://what-chat-gpt3.netlify.app)
+
 A modern **React + Tailwind CSS** landing page concept for showcasing **OpenAI’s GPT-3**.  
 It includes smooth GSAP animations, a responsive design, feature sections, call-to-actions, and a blog preview.
 
