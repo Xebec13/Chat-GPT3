@@ -32,13 +32,14 @@ It includes smooth GSAP animations, a responsive design, feature sections, call-
 
 ---
 
-## ⚙️ Installation
+## 🚀 Installation
+ 
+1. Clone the repository:  
+   `git clone https://github.com/Xebec13/Chat-GPT3.git`
 
-Clone the repository and install dependencies:
-`git clone https://github.com/Xebec13/Chat-GPT3.git`
-cd chat-gpt3-landing
-npm install
-npm run dev
+2. Install dependencies and run. 
+  `npm install
+   npm run dev`
 
 ---
 ## 🎥 Preview GIFs
