@@ -1,6 +1,6 @@
 # 🤖 GPT-3 Landing Page
 
-[![Live](https://img.shields.io/badge/Live-Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=pink)](https://what-chat-gpt3.netlify.app)
+[![Live](https://img.shields.io/badge/Live-blueviolet?style=for-the-badge&logo=vercel&logoColor=pink)](https://what-chat-gpt3.netlify.app) (open in new tab)
 
 A modern **React + Tailwind CSS** landing page concept for showcasing **OpenAI’s GPT-3**.  
 It includes smooth GSAP animations, a responsive design, feature sections, call-to-actions, and a blog preview.
@@ -32,6 +32,15 @@ It includes smooth GSAP animations, a responsive design, feature sections, call-
 
 ---
 
+## ⚙️ Installation
+
+Clone the repository and install dependencies:
+`git clone https://github.com/Xebec13/Chat-GPT3.git`
+cd chat-gpt3-landing
+npm install
+npm run dev
+
+---
 ## 🎥 Preview GIFs
 
 > GIFs are stored locally in this repo.
